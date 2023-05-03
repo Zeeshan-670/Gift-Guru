@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 02 May 2023 19:07:58 at https://arino-html.vercel.app/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://arino-html.vercel.app/ -O1 "D:\01-Templates\arino" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:08:49	Error: 	"Not Found" (404) at link https://arino-html.vercel.app/assets/css/img/vimeo-play.png (from https://arino-html.vercel.app/assets/css/plugins/lightgallery.min.css)
+19:08:49	Error: 	"Not Found" (404) at link https://arino-html.vercel.app/assets/css/img/video-play.png (from https://arino-html.vercel.app/assets/css/plugins/lightgallery.min.css)
+19:08:49	Error: 	"Not Found" (404) at link https://arino-html.vercel.app/assets/css/img/youtube-play.png (from https://arino-html.vercel.app/assets/css/plugins/lightgallery.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 51 seconds : 212 links scanned, 208 files written (35724841 bytes overall) [33863839 bytes received at 663996 bytes/sec], 2494809 bytes transferred using HTTP compression in 64 files, ratio 20%, 42.4 requests per connection
+(3 errors, 0 warnings, 0 messages)
