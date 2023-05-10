@@ -1,0 +1,60 @@
+{
+  "clientReviews": [
+    {
+      "id": "1",
+      "userName": "Palo Café",
+      "userImage": "./assets/images/testimonial_1.png",
+      "message": "Working with Giveaway Genius has been a game-changer for our café. We've seen a significant boost in customers and sales since partnering with them. Their team has been incredibly supportive and helpful throughout the entire process.",
+      "customerType": "Loyalty Member"
+    },
+    {
+      "id": "2",
+      "userName": "Ballarat Indian Restaurant",
+      "userImage": "./assets/images/testimonial_2.jpeg",
+      "message": "We were hesitant at first to try a new marketing approach, but partnering with Giveaway Genius was the best decision we've made. We've not only gained new customers, but we've also increased our brand awareness within the community. Their platform is easy to use and their team is always available to answer any questions we have.",
+      "customerType": "Loyalty Member"
+    },
+    {
+      "id": "3",
+      "userName": "Smoking Joes",
+      "userImage": "./assets/images/testimonial_3.png",
+      "message": "We were pleasantly surprised by the results we saw after using Giveaway Genius. Our sales increased during a slower period, and we were able to reach new customers in the process. The platform is user-friendly and their team is genuinely invested in helping our business succeed.",
+      "customerType": "Loyalty Member"
+    },
+    {
+      "id": "4",
+      "userName": "KH Bakery",
+      "userImage": "./assets/images/testimonial_4.jpeg",
+      "message": "Giveaway Genius has been an excellent partner for us. They've helped us engage with our customers and increase our social media presence. Their support team is responsive and always willing to go the extra mile to help us achieve our goals.",
+      "customerType": "Loyalty Member"
+    },
+    {
+      "id": "5",
+      "userName": "Palo Café",
+      "userImage": "./assets/images/testimonial_5.png",
+      "message": "I recently won a gift card from Giveaway Genius and it was such an amazing surprise! I love how easy it was to enter and the rewards are really worth it. Highly recommend signing up and entering their giveaways!",
+      "customerType": "Loyalty Member"
+    },
+    {
+      "id": "6",
+      "userName": "Ballarat Indian Restaurant",
+      "userImage": "./assets/images/testimonial_6.jpeg",
+      "message": "Giveaway Genius has become my go-to for discovering new local businesses. Their giveaways are always top-notch and the prizes are so exciting. I've already discovered some great new restaurants and shops thanks to them!",
+      "customerType": "Loyalty Member"
+    },
+    {
+      "id": "7",
+      "userName": "Smoking Joes",
+      "userImage": "./assets/images/testimonial_7.png",
+      "message": "As someone who loves trying new things, Giveaway Genius is perfect for me. I can easily discover new businesses in my area and try out their products or services. It's such a great way to support local businesses and find some amazing deals at the same time.",
+      "customerType": "Loyalty Member"
+    },
+    {
+      "id": "8",
+      "userName": "KH Bakery",
+      "userImage": "./assets/images/testimonial_8.jpeg",
+      "message": "I recently won a prize from Giveaway Genius and I was blown away by the quality of the product. It was clear that the business really cared about their customers and put a lot of effort into their giveaway. I can't wait to try out some more of the businesses featured on Giveaway Genius!",
+      "customerType": "Loyalty Member"
+    }
+  ]
+}

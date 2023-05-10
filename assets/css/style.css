@@ -6759,6 +6759,7 @@ label {
   border-radius: inherit;
   -webkit-transition: all 0.8s ease;
   transition: all 0.8s ease;
+  /* filter: brightness(0) invert(1); */
 }
 
 .cs-team.cs-style1 .cs-member_overlay {

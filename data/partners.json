@@ -1,0 +1,39 @@
+{
+  "partnersList": [
+    {
+      "id": "1",
+      "partnerName": "Ballarat Indian Restaurant",
+      "partnerImage": "./assets/images/Partners-2.png"
+    },
+    {
+      "id": "2",
+      "partnerName": "Smoking Joes",
+      "partnerImage": "./assets/images/Partners-3.png"
+    },
+    {
+      "id": "3",
+      "partnerName": "KH Bakery",
+      "partnerImage": "./assets/images/Partners-4.png"
+    },
+    {
+      "id": "4",
+      "partnerName": "Palo Café",
+      "partnerImage": "./assets/images/Partners-1.png"
+    },
+    {
+      "id": "5",
+      "partnerName": "Ballarat Indian Restaurant",
+      "partnerImage": "./assets/images/Partners-2.png"
+    },
+    {
+      "id": "6",
+      "partnerName": "Smoking Joes",
+      "partnerImage": "./assets/images/Partners-3.png"
+    },
+    {
+      "id": "7",
+      "partnerName": "KH Bakery",
+      "partnerImage": "./assets/images/Partners-4.png"
+    }
+  ]
+}

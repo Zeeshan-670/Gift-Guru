@@ -96,7 +96,7 @@
   function mainNav() {
     $('.cs-nav').append('<span class="cs-munu_toggle"><span></span></span>');
     $('.menu-item-has-children').append(
-      '<span class="cs-munu_dropdown_toggle"></span>',
+      '<span class="cs-munu_dropdown_toggle"></span>'
     );
     $('.cs-munu_toggle').on('click', function () {
       $(this)
@@ -193,7 +193,7 @@
         var centerVar = Boolean(parseInt($ts.attr('data-center'), 10));
         // Variable Width
         var variableWidthVar = Boolean(
-          parseInt($ts.attr('data-variable-width'), 10),
+          parseInt($ts.attr('data-variable-width'), 10)
         );
         // Pagination
         var paginaiton = $(this)
@@ -333,7 +333,7 @@
       video = video.split('?v=')[1].trim();
       $('.cs-video_popup_container iframe').attr(
         'src',
-        `https://www.youtube.com/embed/${video}`,
+        `https://www.youtube.com/embed/${video}`
       );
       $('.cs-video_popup').addClass('active');
     });
@@ -560,7 +560,7 @@
         {
           scrollTop: 0,
         },
-        0,
+        0
       );
     });
   }
@@ -590,7 +590,7 @@
           .parents('.cs-portfolio')
           .find('.cs-portfolio_img')
           .removeClass('active');
-      },
+      }
     );
   }
   /*--------------------------------------------------------------
@@ -633,7 +633,7 @@
                 innerTranslate = slideProgress * innerOffset;
 
               swiper.slides[i].querySelector(
-                '.cs-swiper_parallax_bg',
+                '.cs-swiper_parallax_bg'
               ).style.transform = 'translateX(' + innerTranslate + 'px)';
             }
           },
@@ -646,7 +646,7 @@
             for (let i = 0; i < swiper.slides.length; i++) {
               swiper.slides[i].style.transition = transition + 'ms';
               swiper.slides[i].querySelector(
-                '.cs-swiper_parallax_bg',
+                '.cs-swiper_parallax_bg'
               ).style.transition = transition + 'ms';
             }
           },
@@ -701,7 +701,7 @@
         },
         body: json,
       })
-        .then(async response => {
+        .then(async (response) => {
           let json = await response.json();
           if (response.status == 200) {
             result.innerHTML = json.message;
@@ -710,7 +710,7 @@
             result.innerHTML = json.message;
           }
         })
-        .catch(error => {
+        .catch((error) => {
           console.log(error);
           result.innerHTML = 'Something went wrong!';
         })
@@ -729,13 +729,13 @@
     $('body').append('<span class="cs-cursor_lg d"></span>');
     $('body').append('<span class="cs-cursor_sm"></span>');
     $(
-      '.cs-text_btn, .cs-site_header a, .cs-down_btn, .cs-social_btns a, .cs-menu_widget',
+      '.cs-text_btn, .cs-site_header a, .cs-down_btn, .cs-social_btns a, .cs-menu_widget'
     ).on('mouseenter', function () {
       $('.cs-cursor_lg').addClass('opacity-0');
       $('.cs-cursor_sm').addClass('opacity-0');
     });
     $(
-      '.cs-text_btn, .cs-site_header a, .cs-down_btn, .cs-social_btns a, .cs-menu_widget',
+      '.cs-text_btn, .cs-site_header a, .cs-down_btn, .cs-social_btns a, .cs-menu_widget'
     ).on('mouseleave', function () {
       $('.cs-cursor_lg').removeClass('opacity-0');
       $('.cs-cursor_sm').removeClass('opacity-0');
@@ -759,7 +759,7 @@
           {
             ease: 'power2.out',
           },
-          '-=0.4',
+          '-=0.4'
         );
     } catch (err) {
       console.log(err);
